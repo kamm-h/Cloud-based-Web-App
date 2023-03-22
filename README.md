@@ -8,3 +8,5 @@ I secured my application by creating and storing SSL certificates in Azure's Key
 Finally, I protected my web application by configuring Azure's Security features, such as Azure's Security Center.
 
 All Azure technologies used: Docker, HTML, WAF, Key Vaults, Front Door, OpenSSL, App Services, PHP
+
+*Unfortunately, my free trial with Azure expired; so the direct link to the blog site is no longer active
